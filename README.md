@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Website Development (Tours and Travels Company)**
 
-- 🌱 I’m currently learning **Prompt Engineering, Certified Ethical Hacking and I am interested in Artificial intelligence based Security Systems.**
+- 🌱 I’m currently learning **Prompt Engineering, Systems Security I am interested in Artificial intelligence based Security Systems.**
 
 - 👨‍💻 I’m Pursuing my **Bachelor's in Computer Science Engineering.**
 
