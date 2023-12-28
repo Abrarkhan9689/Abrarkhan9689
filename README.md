@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://im5.ezgif.com/tmp/ezgif-5-01b09028a2.gif)]
 <h1 align="center">Hi 👋, I'm Mohammed Abrarkhan</h1>
 <h3 align="center">CSE Student</h3>
 <img align="right" alt="Driving" width="400" src="https://im5.ezgif.com/tmp/ezgif-5-d49e4410b2.gif">
