@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohammed Abrarkhan</h1>
 <h3 align="center">CSE Student</h3>
-<img align="right" alt="Driving" width="400" src="https://www.pinterest.com/pin/940759809637808576/sent/?invite_code=a794d674e7fa4c65aa7ffdf90a7224e1&sender=961096514137007287&sfo=1">
+<img align="right" alt="Driving" width="400" src="https://i.gifer.com/QWsW.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarkhan9689&label=Profile%20views&color=0e75b6&style=flat" alt="abrarkhan9689" /> </p>
 
