@@ -1,8 +1,5 @@
-[![MasterHead](https://im5.ezgif.com/tmp/ezgif-5-01b09028a2.gif)]
 <h1 align="center">Hi 👋, I'm Mohammed Abrarkhan</h1>
 <h3 align="center">CSE Student</h3>
-<img align="right" alt="Driving" width="400" src="https://im5.ezgif.com/tmp/ezgif-5-d49e4410b2.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarkhan9689&label=Profile%20views&color=0e75b6&style=flat" alt="abrarkhan9689" /> </p>
 
 - 🔭 I’m currently working on **Website Development (Tours and Travels Company)**
