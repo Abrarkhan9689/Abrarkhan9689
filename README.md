@@ -1,4 +1,4 @@
-![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1f60e133-58e7-4fb7-8b82-3791aeebec0b/da8135q-7d44f53b-eaf2-4d94-9da2-76f72888c734.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFmNjBlMTMzLTU4ZTctNGZiNy04YjgyLTM3OTFhZWViZWMwYlwvZGE4MTM1cS03ZDQ0ZjUzYi1lYWYyLTRkOTQtOWRhMi03NmY3Mjg4OGM3MzQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Xj8wgz_xj5xpCuWqPtuZi-r4z1SC00bPHuWgcAgauGs)
+![MasterHead](https://i.redd.it/thj41ymmh0351.gif)
 <h1 align="center">Hi 👋, I'm Mohammed Abrarkhan</h1>
 <h3 align="center">CSE Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarkhan9689&label=Profile%20views&color=0e75b6&style=flat" alt="abrarkhan9689" /> </p>
